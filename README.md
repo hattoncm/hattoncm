@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I was a self-employed graphic designer for 3 years before I switched to front-end development**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
